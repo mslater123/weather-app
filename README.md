@@ -26,8 +26,7 @@ A React-based application that allows users to view current weather information 
 
 ## Demo
 
-![Weather App Demo](./demo/demo.gif)
-
+![alt text](image.png)
 *Screenshot of the Weather App in action.*
 
 ## Getting Started
@@ -147,7 +146,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **Project Link:** [https://github.com/mslater123/weather-app](https://github.com/mslater123/weather-app)
-- **Author:** Mike Slater
-- **Email:** [mslater123@example.com](mailto:mslater123@example.com)
+- **Author:** Michael Slater
+- **Email:** [mslater123@example.com](mailto:mslater123@gmail.com)
 
 Feel free to reach out for any inquiries or feedback!
