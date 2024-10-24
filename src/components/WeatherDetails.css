@@ -1,0 +1,15 @@
+.weather-details {
+  width: 100%;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.weather-details p {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #444;
+}
+
+.weather-details p strong {
+  color: #000;
+}
